@@ -8,6 +8,12 @@
 	--color-sup-background: #BF2626;
 }
 
+@font-face {
+  font-family: 'gotham-ultra';
+  src: url('gotham-ultra.ttf');
+  src: url('gotham-ultra.ttf') format('truetype');
+}
+
 html {
 	height: 100%;
 }
@@ -29,7 +35,7 @@ a:hover {
 }
 
 .logo-txt {
-	font-family: GothamUltra;
+	font-family: gotham-ultra;
 	font-size: 32px;
 	padding: 10px 10px 10px 0px;
 	vertical-align: middle;
