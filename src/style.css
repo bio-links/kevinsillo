@@ -168,6 +168,10 @@ a:hover {
 	color: white;
 }
 
+.counters {
+	font-family: consolas;
+}
+
 .boton {
 	font-size: 20px;
 	font-family: Karla;
