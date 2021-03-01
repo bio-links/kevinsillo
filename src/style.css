@@ -2,7 +2,8 @@
 	--color-bg: #000000FF;
 	--color-nota: #88984CCC;
 	--color-boton: #277963BF;
-	--color-boton-activo: #226856BF;
+	--color-boton-activo: #082E24BF;
+	--color-zfill: #012118;
 	--color-logo-brillo: #63C038;
 	--color-sup-font: #FFFFFF;
 	--color-sup-background: #BF2626;
@@ -69,7 +70,6 @@ a:hover {
 
 .logo-img {
 	height: 40px;
-/*	margin-top: -5px;*/
 }
 
 .live {
@@ -170,6 +170,14 @@ a:hover {
 
 .counters {
 	font-family: consolas;
+	padding: 5px 8px;
+	background-color: var(--color-boton-activo);
+	border-radius: 0.2em;
+}
+
+.zfill {
+	color: var(--color-zfill);
+	font-weight: bold;
 }
 
 .boton {
