@@ -3,10 +3,10 @@
     "static/js/0.029ba399.chunk.js": "/kevinsillo/static/js/0.029ba399.chunk.js",
     "static/js/0.029ba399.chunk.js.map": "/kevinsillo/static/js/0.029ba399.chunk.js.map",
     "main.css": "/kevinsillo/static/css/main.6db5366e.chunk.css",
-    "main.js": "/kevinsillo/static/js/main.90af16d5.chunk.js",
-    "main.js.map": "/kevinsillo/static/js/main.90af16d5.chunk.js.map",
-    "runtime-main.js": "/kevinsillo/static/js/runtime-main.f7c4d7bf.js",
-    "runtime-main.js.map": "/kevinsillo/static/js/runtime-main.f7c4d7bf.js.map",
+    "main.js": "/kevinsillo/static/js/main.0cb28506.chunk.js",
+    "main.js.map": "/kevinsillo/static/js/main.0cb28506.chunk.js.map",
+    "runtime-main.js": "/kevinsillo/static/js/runtime-main.aa38e69a.js",
+    "runtime-main.js.map": "/kevinsillo/static/js/runtime-main.aa38e69a.js.map",
     "static/css/3.ac9e6d7a.chunk.css": "/kevinsillo/static/css/3.ac9e6d7a.chunk.css",
     "static/js/3.d68290cd.chunk.js": "/kevinsillo/static/js/3.d68290cd.chunk.js",
     "static/js/3.d68290cd.chunk.js.map": "/kevinsillo/static/js/3.d68290cd.chunk.js.map",
@@ -14,8 +14,8 @@
     "static/js/4.f61ef3c2.chunk.js": "/kevinsillo/static/js/4.f61ef3c2.chunk.js",
     "static/js/4.f61ef3c2.chunk.js.map": "/kevinsillo/static/js/4.f61ef3c2.chunk.js.map",
     "static/css/5.1d235015.chunk.css": "/kevinsillo/static/css/5.1d235015.chunk.css",
-    "static/js/5.8ad6e727.chunk.js": "/kevinsillo/static/js/5.8ad6e727.chunk.js",
-    "static/js/5.8ad6e727.chunk.js.map": "/kevinsillo/static/js/5.8ad6e727.chunk.js.map",
+    "static/js/5.b9708c22.chunk.js": "/kevinsillo/static/js/5.b9708c22.chunk.js",
+    "static/js/5.b9708c22.chunk.js.map": "/kevinsillo/static/js/5.b9708c22.chunk.js.map",
     "static/css/6.99306e34.chunk.css": "/kevinsillo/static/css/6.99306e34.chunk.css",
     "static/js/6.b5baed1f.chunk.js": "/kevinsillo/static/js/6.b5baed1f.chunk.js",
     "static/js/6.b5baed1f.chunk.js.map": "/kevinsillo/static/js/6.b5baed1f.chunk.js.map",
@@ -54,10 +54,10 @@
     "static/media/Header.scss": "/kevinsillo/static/media/gotham.19070afc.ttf"
   },
   "entrypoints": [
-    "static/js/runtime-main.f7c4d7bf.js",
+    "static/js/runtime-main.aa38e69a.js",
     "static/css/3.ac9e6d7a.chunk.css",
     "static/js/3.d68290cd.chunk.js",
     "static/css/main.6db5366e.chunk.css",
-    "static/js/main.90af16d5.chunk.js"
+    "static/js/main.0cb28506.chunk.js"
   ]
 }
