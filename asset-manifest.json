@@ -1,29 +1,29 @@
 {
   "files": {
-    "main.css": "/kevinsillo/static/css/main.cc602814.chunk.css",
+    "main.css": "/kevinsillo/static/css/main.d4b371c3.chunk.css",
     "main.js": "/kevinsillo/static/js/main.bd1cb51f.chunk.js",
     "main.js.map": "/kevinsillo/static/js/main.bd1cb51f.chunk.js.map",
-    "runtime-main.js": "/kevinsillo/static/js/runtime-main.aa1c215b.js",
-    "runtime-main.js.map": "/kevinsillo/static/js/runtime-main.aa1c215b.js.map",
+    "runtime-main.js": "/kevinsillo/static/js/runtime-main.a5cdc5f2.js",
+    "runtime-main.js.map": "/kevinsillo/static/js/runtime-main.a5cdc5f2.js.map",
     "static/css/2.d0b89690.chunk.css": "/kevinsillo/static/css/2.d0b89690.chunk.css",
     "static/js/2.0fff1085.chunk.js": "/kevinsillo/static/js/2.0fff1085.chunk.js",
     "static/js/2.0fff1085.chunk.js.map": "/kevinsillo/static/js/2.0fff1085.chunk.js.map",
-    "static/css/3.9a7d0d45.chunk.css": "/kevinsillo/static/css/3.9a7d0d45.chunk.css",
-    "static/js/3.bac50e2b.chunk.js": "/kevinsillo/static/js/3.bac50e2b.chunk.js",
-    "static/js/3.bac50e2b.chunk.js.map": "/kevinsillo/static/js/3.bac50e2b.chunk.js.map",
+    "static/css/3.14de9dbe.chunk.css": "/kevinsillo/static/css/3.14de9dbe.chunk.css",
+    "static/js/3.d34e0b5e.chunk.js": "/kevinsillo/static/js/3.d34e0b5e.chunk.js",
+    "static/js/3.d34e0b5e.chunk.js.map": "/kevinsillo/static/js/3.d34e0b5e.chunk.js.map",
     "index.html": "/kevinsillo/index.html",
     "static/css/2.d0b89690.chunk.css.map": "/kevinsillo/static/css/2.d0b89690.chunk.css.map",
-    "static/css/3.9a7d0d45.chunk.css.map": "/kevinsillo/static/css/3.9a7d0d45.chunk.css.map",
-    "static/css/main.cc602814.chunk.css.map": "/kevinsillo/static/css/main.cc602814.chunk.css.map",
+    "static/css/3.14de9dbe.chunk.css.map": "/kevinsillo/static/css/3.14de9dbe.chunk.css.map",
+    "static/css/main.d4b371c3.chunk.css.map": "/kevinsillo/static/css/main.d4b371c3.chunk.css.map",
     "static/js/2.0fff1085.chunk.js.LICENSE.txt": "/kevinsillo/static/js/2.0fff1085.chunk.js.LICENSE.txt",
     "static/media/font-awesome.min.css": "/kevinsillo/static/media/fontawesome-webfont.f691f37e.woff",
     "static/media/Header.scss": "/kevinsillo/static/media/gotham.19070afc.ttf"
   },
   "entrypoints": [
-    "static/js/runtime-main.aa1c215b.js",
+    "static/js/runtime-main.a5cdc5f2.js",
     "static/css/2.d0b89690.chunk.css",
     "static/js/2.0fff1085.chunk.js",
-    "static/css/main.cc602814.chunk.css",
+    "static/css/main.d4b371c3.chunk.css",
     "static/js/main.bd1cb51f.chunk.js"
   ]
 }
